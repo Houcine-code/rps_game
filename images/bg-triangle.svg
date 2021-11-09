@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="304"
+   height="277"
+   viewBox="0 0 80.433338 73.289587"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="tr.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="304px"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:lockguides="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="100.93949"
+     inkscape:cy="74.422989"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,73.289587"
+       orientation="0,304"
+       id="guide937"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="80.433338,73.289587"
+       orientation="277,0"
+       id="guide939"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="80.433338,0"
+       orientation="0,-304"
+       id="guide941"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-277,0"
+       id="guide943"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="40.209523,-2.091095"
+       orientation="1,0"
+       id="guide945"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="40.20409,35.636741"
+       orientation="0,-1"
+       id="guide947"
+       inkscape:locked="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1082" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:5.01288;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.17675877;paint-order:markers stroke fill"
+       d="M 4.222368,2.5058396 40.20355,68.079938 76.207247,2.5058396 Z"
+       id="path982"
+       inkscape:export-filename="/home/hpc/Pictures/bg-triangle.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
