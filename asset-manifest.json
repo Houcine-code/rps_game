@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rps_game/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/rps_game/static/js/main.68d5f188.chunk.js",
+    "main.js.map": "/rps_game/static/js/main.68d5f188.chunk.js.map",
+    "runtime-main.js": "/rps_game/static/js/runtime-main.bbd49f44.js",
+    "runtime-main.js.map": "/rps_game/static/js/runtime-main.bbd49f44.js.map",
+    "static/js/2.9f9fb176.chunk.js": "/rps_game/static/js/2.9f9fb176.chunk.js",
+    "static/js/2.9f9fb176.chunk.js.map": "/rps_game/static/js/2.9f9fb176.chunk.js.map",
+    "static/js/3.47603c8a.chunk.js": "/rps_game/static/js/3.47603c8a.chunk.js",
+    "static/js/3.47603c8a.chunk.js.map": "/rps_game/static/js/3.47603c8a.chunk.js.map",
+    "index.html": "/rps_game/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/rps_game/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9f9fb176.chunk.js.LICENSE.txt": "/rps_game/static/js/2.9f9fb176.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rps_game/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbd49f44.js",
+    "static/js/2.9f9fb176.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.68d5f188.chunk.js"
+  ]
+}
