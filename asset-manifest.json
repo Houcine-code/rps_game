@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rps_game/static/css/main.27b6604d.chunk.css",
-    "main.js": "/rps_game/static/js/main.0f7239b1.chunk.js",
-    "main.js.map": "/rps_game/static/js/main.0f7239b1.chunk.js.map",
+    "main.css": "/rps_game/static/css/main.fb4a2f77.chunk.css",
+    "main.js": "/rps_game/static/js/main.777cf02a.chunk.js",
+    "main.js.map": "/rps_game/static/js/main.777cf02a.chunk.js.map",
     "runtime-main.js": "/rps_game/static/js/runtime-main.e2e23d5b.js",
     "runtime-main.js.map": "/rps_game/static/js/runtime-main.e2e23d5b.js.map",
-    "static/js/2.0e2f7ef3.chunk.js": "/rps_game/static/js/2.0e2f7ef3.chunk.js",
-    "static/js/2.0e2f7ef3.chunk.js.map": "/rps_game/static/js/2.0e2f7ef3.chunk.js.map",
+    "static/js/2.33bda060.chunk.js": "/rps_game/static/js/2.33bda060.chunk.js",
+    "static/js/2.33bda060.chunk.js.map": "/rps_game/static/js/2.33bda060.chunk.js.map",
     "index.html": "/rps_game/index.html",
-    "static/css/main.27b6604d.chunk.css.map": "/rps_game/static/css/main.27b6604d.chunk.css.map",
-    "static/js/2.0e2f7ef3.chunk.js.LICENSE.txt": "/rps_game/static/js/2.0e2f7ef3.chunk.js.LICENSE.txt"
+    "static/css/main.fb4a2f77.chunk.css.map": "/rps_game/static/css/main.fb4a2f77.chunk.css.map",
+    "static/js/2.33bda060.chunk.js.LICENSE.txt": "/rps_game/static/js/2.33bda060.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e2e23d5b.js",
-    "static/js/2.0e2f7ef3.chunk.js",
-    "static/css/main.27b6604d.chunk.css",
-    "static/js/main.0f7239b1.chunk.js"
+    "static/js/2.33bda060.chunk.js",
+    "static/css/main.fb4a2f77.chunk.css",
+    "static/js/main.777cf02a.chunk.js"
   ]
 }
